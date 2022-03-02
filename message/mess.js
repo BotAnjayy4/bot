@@ -10,10 +10,10 @@ module.exports.mess = {
 				Iv: 'Link mungkin tidak valid'
 			},
 			only: {
-				group: 'Maaf❗ Command ini khusus untuk di dalam Group saja.',
-				admin: 'Maaf❗ Command ini khusus untuk admin group saja.',
+				group: 'Cuma Di Group Doanh.',
+				admin: 'Hanya Admin Yg Bisa.',
 				premium: 'Kamu bukan user premium, kirim perintah *#buypremium* untuk membeli premium',
-				owner: 'Maaf❗ Command ini khusus untuk Owner Bot saja.',
-				Badmin: 'Maaf❗ Command ini khusus untuk Bot ketika jadi admin❗❗',
+				owner: 'Cuma Owner Gw Yg Bisa Pake Fiturnay.',
+				Badmin: 'Bot Jadiin Amdin Dulu Ya Banh',
 			}
 		}
