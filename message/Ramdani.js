@@ -118,11 +118,11 @@ Apabila Melewati Jam Aktif, Maka Akan Di Proses Di Hari Berikutnya
 [14.05, 20/12/2021] Ramdanis Store: 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
+Nomor : 089667644225
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 089512545999
+Nomor : 089667644225
 A / n : Ramdani store
 
 💳 OVO (LIMIT) 
@@ -140,12 +140,12 @@ return `
 💰 PAYMENT  💰
 
 💳 DANA
-Nomor : 089512545999
+Nomor : 089667644225
 A / n : DISAH
 
 💳 GOPAY
-Nomor : 089512545999
-A / n : Ramdani store
+Nomor : 089667644225
+A / n : InzGanz
 
 💳 OVO (LIMIT) 
 Nomor : 
