@@ -1,6 +1,6 @@
 
 {
-  botname = "RAMDANI BOTZ"
+  botname = "X2Botz"
 
 
   exports.apkmenu = (prefix) => {
